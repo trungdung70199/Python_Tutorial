@@ -104,3 +104,10 @@ txt = "The rain in Spain"
 x = re.search(r"\bS\w+", txt)
 print(x.span())
 
+# Print the string passed into the function
+# import re 
+# txt = "The rain in the Tokyo"
+# x = re.search(r"\bS\w+", txt)
+# print(x.string)
+
+# If there is no match  the value None will be return
