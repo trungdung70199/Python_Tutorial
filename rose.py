@@ -3,7 +3,7 @@ import turtle as tur
 try:
 
     tur.title("Pythontpoint")
-    tur.write("Happy Valentine Day.....!!!!",align="right",font=("Times New Roman",
+    tur.write("Happy Woman Day.....!!!!",align="right",font=("Times New Roman",
                                         25, "bold"))
     # flower base
     tur.fillcolor ("red")
