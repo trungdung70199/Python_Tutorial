@@ -22,4 +22,22 @@ print(f"You are buying {quantity} items")
 print(f"Your class has {num_of_students} students")
 
 # Float
+price = 10.99
+gpa = 3.0
+distance = 2.0
 
+print(f"The price is ${price}")
+print(f"Your gpa is {gpa}")
+print(f"You ran {distance}km")
+
+# Boolean
+
+is_student = True
+for_sale = True
+
+#print(f"Are you a student?: {is_student}")
+
+if for_sale:
+    print("That item is for sale")
+else:
+    print("That item is NOT available")
